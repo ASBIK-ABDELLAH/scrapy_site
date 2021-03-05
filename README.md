@@ -3,7 +3,7 @@
 
 Purpose of this Project :\
 1- Familiarise myself with using scrapy. \
-2- Collect data using Zyte and automise it.\
+2- Collect data using Zyte and automise it.
 
 Files:\
 Femme.py and Sport.py : the main code of scraping data.\
